@@ -1,0 +1,25 @@
+1. $cd /d/new/practice7777 : d드라이브 new폴더안에 practice7777폴더로 들어간다.
+
+2. git init
+
+3. ls 폴더 내에 있는 모든 파일 표시
+
+4. git config --global user.name "sang0775" 
+
+5. git config --global user.email "mathroad2@gmail.com"
+
+6. git clone https://github.com/sang0775/practice7777.git
+
+7. git add test.txt
+
+8. git status
+
+9. git commit -m "first commit" test.txt
+
+10. git push -u origin master
+
+11. -- test.txt의 내용을 수정 후,
+
+12. git status
+
+13. git commit -m "second commit" test.txt
