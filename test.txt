@@ -23,3 +23,7 @@
 12. git status
 
 13. git commit -m "second commit" test.txt
+
+14. git push -u origini master
+
+√‚√≥:https://www.youtube.com/watch?v=J_Clau1bYco
