@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  main.cpp
+  Logistic_classification.cpp
+c:\users\kjh\documents\visual studio 2017\projects\consoleapplication22\consoleapplication22\logistic_classification.cpp(199): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  ConsoleApplication22.vcxproj -> C:\Users\KJH\Documents\Visual Studio 2017\Projects\ConsoleApplication22\Debug\ConsoleApplication22.exe
+  ConsoleApplication22.vcxproj -> C:\Users\KJH\Documents\Visual Studio 2017\Projects\ConsoleApplication22\Debug\ConsoleApplication22.pdb (Partial PDB)
