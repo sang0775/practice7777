@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\kjh\documents\visual studio 2017\projects\kmeansclustering\kmeansclustering\main.cpp(14): warning C4101: 'old_centroid' :참조되지 않은 지역 변수입니다.
+  Kmc.cpp
+c:\users\kjh\documents\visual studio 2017\projects\kmeansclustering\kmeansclustering\kmc.cpp(79): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  KMeansClustering.vcxproj -> C:\Users\KJH\Documents\Visual Studio 2017\Projects\KMeansClustering\Debug\KMeansClustering.exe
+  KMeansClustering.vcxproj -> C:\Users\KJH\Documents\Visual Studio 2017\Projects\KMeansClustering\Debug\KMeansClustering.pdb (Partial PDB)
